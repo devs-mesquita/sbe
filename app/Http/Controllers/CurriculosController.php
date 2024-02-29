@@ -65,6 +65,13 @@ class CurriculosController extends Controller
         return redirect('/curriculos');
     }
      
+// public function destroy($id)
+// {
+//     $curriculos = Curriculo::findOrFail($id)
+//     $curriculos->delete();
 
+//     return redirect()->route('curriculos.index');
+
+//     }
 
 }

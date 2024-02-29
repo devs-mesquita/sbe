@@ -46,7 +46,7 @@
     
     
     <div class="container relative">
-      <div class="datatable-container h-5">
+      <div class="datatable-container h-1">
           <div class="container mx-auto flex items-center justify-around text">
               <div class="container  flex text-sm items-center justify-center">
                   <!--Card-->

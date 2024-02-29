@@ -8,6 +8,10 @@ class HomeController extends Controller
 {
     public function index ()
     {
+        // $areas = Area::all();
         return view('home');
+ 
+  
     }
+
 }

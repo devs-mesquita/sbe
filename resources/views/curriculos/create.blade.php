@@ -267,8 +267,8 @@
 </div>
 </div>
 <div class="flex justify-center gap-6">
-  <button  type="submit" class="max-w-[150px] text-center inline-block w-full py-4 px-8 leading-none text-white bg-purple-950 hover:bg-pink-900 font-semibold rounded shadow">SALVAR</button>
-  <a href="/curriculos"  type="submit" class="max-w-[150px] text-center inline-block w-full py-4 px-8 leading-none text-white bg-purple-950 hover:bg-pink-900 font-semibold rounded shadow">CANCELAR</a>
+  <button  type="submit" class="text-white inline-flex items-center bg-indigo-500 duration-500 hover:scale-105 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-5">SALVAR</button>
+  <a href="/curriculos"  type="submit" class="text-white inline-flex items-center bg-indigo-500 duration-500 hover:scale-105 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-5">CANCELAR</a>
 </div>
 </form>
 </div>
